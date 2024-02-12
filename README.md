@@ -10,7 +10,7 @@ More recently, I’ve been developing and delivering educational and training so
 <!-- BEGIN YOUTUBE-CARDS -->
 
 ### Featured YouTube Videos
-[! [Cannabis and Cardiovascular Health](https://ytcards.demolab.com/?id=OS76kYOlvDU&title=Cannabis+and+Cardiovascular+Health&lang=en&timestamp=1638183600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3385 “Cannabis and Cardiovascular Health”)]( https://youtu.be/OS76kYOlvDU?si=CjZhHRhiqgGen6-W)
+[![Cannabis and Cardiovascular Health](https://ytcards.demolab.com/?id=OS76kYOlvDU&title=Cannabis+and+Cardiovascular+Health&lang=en&timestamp=1638183600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3385 “Cannabis and Cardiovascular Health”)]( https://youtu.be/OS76kYOlvDU)
 
 
 <!-- END YOUTUBE-CARDS -->
