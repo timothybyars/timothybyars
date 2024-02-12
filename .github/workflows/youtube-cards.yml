@@ -18,7 +18,7 @@ jobs:
           channel_id: UCX_iYUt3XeKZrHqWvgCvaxA
           lang: en
           comment_tag_name: YOUTUBE-CARDS
-          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }} # Configured in Actions Secrets (see Wiki)
+          
           max_videos: 6
           base_url: https://ytcards.demolab.com/
           card_width: 250
